@@ -59,10 +59,10 @@
 ### 📬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amrmagdy-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/amrmagdydb/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:amrmagdy.dev@gmail.com">
+  <a href="mailto:bamrmagdy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -72,9 +72,3 @@
 > 💬 "Keep building, keep failing, keep learning."  
 > — Your future self will thank you.
 
----
-
-### 🔥 Bonus: Profile Visitors Count
-![Visitor Badge](https://komarev.com/ghpvc/?username=Amrmagdy00&label=Profile%20views&color=0e75b6&style=flat)
-
--

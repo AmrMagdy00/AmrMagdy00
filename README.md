@@ -48,7 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Amrmagdy00&show_icons=true&theme=tokyonight" alt="Amr's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Amrmagdy00&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=Amrmagdy00&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amrmagdy00&layout=compact&theme=tokyonight" alt="Top Languages" />

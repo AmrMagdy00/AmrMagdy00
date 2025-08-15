@@ -115,6 +115,9 @@ An admin dashboard for e-commerce product management:
 
 ## 📚 Education
 
+- **Professional Training Program in MERN Stack Development** | Information Technology Institute (ITI) | *2025*
+  - Focused on MongoDB, Express.js, React.js, Node.js, and full-stack application development
+  - 
 - **Bachelor's Degree in Business Administration** | Helwan University | *Aug 2022*
 - **Military Service Certificate** | Ministry of Interior | *June 2022*
   - Recognized for excellence in computer skills and administrative operations

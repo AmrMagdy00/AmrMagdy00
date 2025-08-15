@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm Amr Magdy 👋</h1>
 <h3 align="center">
-  Software Developer | .NET Core | MERN Stack | Next.js & TypeScript  | Aspiring Architect 🚀
+  Software Developer | .NET Core | MERN Stack | Next.js & TypeScript  🚀
 </h3>
 
 <p align="center">

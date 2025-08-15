@@ -4,10 +4,12 @@
 </h3>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Junior+.NET+Backend+Developer; MERN+Stack+Developer+%7C+Next.js+%26+TypeScript;Clean+Architecture+Fan+🧠;Always+Learning+Every+Day!">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Junior+.NET+Backend+Developer; MERN+Stack+Developer+%7C+Next.js+%26+TypeScript;Clean+Architecture+Fan+🧠;Always+Learning+Every+Day!" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;(.NET+Core+%7C+ASP.NET+Web+API+%7C+Clean+Architecture);(MERN+Stack+%7C+MongoDB+%7C+Express.js+%7C+React.js+%7C+Node.js);(Next.js+%7C+TypeScript);Always+Learning+Every+Day!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;(.NET+Core+%7C+ASP.NET+Web+API+%7C+Clean+Architecture);(MERN+Stack+%7C+MongoDB+%7C+Express.js+%7C+React.js+%7C+Node.js);(Next.js+%7C+TypeScript);Always+Learning+Every+Day!" alt="Typing SVG" />
   </a>
 </p>
+
+
 
 
 <div align="center">

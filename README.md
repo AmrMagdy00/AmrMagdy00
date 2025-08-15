@@ -63,6 +63,15 @@ An admin dashboard for e-commerce product management:
 
 ## 💼 Professional Experience
 
+### Information Technology Institute (ITI) 
+**Trainee - MERN Stack Development** | 2025
+
+- Developing full-stack applications using **MongoDB**, **Express.js**, **React.js**, and **Node.js**
+- Building dynamic, responsive, and scalable web applications
+- Practicing **version control** with Git and GitHub for collaborative development
+- Enhancing problem-solving skills through real-world projects and team collaboration
+
+
 ### EFG Holding
 **Intern - Back-End Developer** | Nov 2024 - Feb 2025
 

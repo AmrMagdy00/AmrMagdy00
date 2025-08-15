@@ -1,5 +1,7 @@
 <h1 align="center">Hey there! I'm Amr Magdy 👋</h1>
-<h3 align="center">Software Developer | .NET Core Backend Developer | Aspiring Architect 🚀</h3>
+<h3 align="center">
+  Software Developer | .NET Core| MERN Stack | Next.js & TypeScript  | Aspiring Architect 🚀
+</h3>
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Junior+.NET+Backend+Developer;MERN+Stack+Learner+🔥;Clean+Architecture+Fan+🧠;Always+Learning+Every+Day!">
@@ -16,10 +18,10 @@
 Self-taught backend developer specializing in .NET technologies. I build robust APIs using ASP.NET Core, Entity Framework, and SQL Server. Passionate about clean architecture, scalability, and continuous learning.
 
 - 🎓 Career shifter from Business Administration to Software Development
-- 💼 Currently working as Backend Developer Intern at **EFG Holding**
+- 💼 Former Backend Developer Intern at **EFG Holding**
 - 💻 .NET Core | ASP.NET Web API | Clean Architecture | Design Patterns
+- 💻 MERN Stack | MongoDB | Express.js | React.js | Node.js | Next.js | TypeScript
 - 🔐 Identity | JWT Authentication & Authorization
-- 🌐 Currently learning MERN Stack (MongoDB, Express, React, Node.js)
 - 🛠️ SQL Server | EF Core | LINQ | Dependency Injection | API Documentation
 - 🎯 Target: Become a well-rounded Software Architect
 - 📍 Based in Cairo, Egypt

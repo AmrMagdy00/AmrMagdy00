@@ -31,6 +31,17 @@ Full Stack Developer skilled in .NET and JavaScript technologies. I build robust
 
 ## 💻 Technical Experience
 
+### 🛒 [Puma E-Commerce Website](https://github.com/tahaebrahim0078/Puma)
+**Full Stack Developer** | Team Project | 2025
+
+A dynamic and responsive e-commerce website for Puma products:
+- Built frontend with **HTML**, **CSS**, and **JavaScript**
+- Implemented **responsive design** for mobile, tablet, and desktop
+- Added **dynamic product pages** with JavaScript DOM manipulation
+- Developed **shopping cart functionality** with add/remove items
+- Organized code into **modular components** for better maintainability
+
+
 ### 📊 [Stock Market API](https://github.com/AmrMagdy00/Fin-Shark.git)
 **Backend Developer** | Personal Project | 2025
 

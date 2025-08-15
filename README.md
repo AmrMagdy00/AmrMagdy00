@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-Self-taught backend developer specializing in .NET technologies. I build robust APIs using ASP.NET Core, Entity Framework, and SQL Server. Passionate about clean architecture, scalability, and continuous learning.
+Full Stack Developer skilled in .NET and JavaScript technologies. I build robust APIs with ASP.NET Core, Entity Framework, and SQL Server, and develop dynamic web apps using the MERN stack (MongoDB, Express.js, React.js, Node.js). Passionate about clean architecture, scalability, and continuous learning.
 
 - 🎓 Career shifter from Business Administration to Software Development
 - 💼 Former Backend Developer Intern at **EFG Holding**

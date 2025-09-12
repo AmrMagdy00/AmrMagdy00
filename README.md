@@ -31,6 +31,19 @@ Full Stack Developer skilled in .NET and JavaScript technologies. I build robust
 
 ## 💻 Technical Experience
 
+### 🛒 [Full E-Commerce Website](https://github.com/Ahmedatia99/Full-E-Commerce)
+**Full Stack Developer** | Team Project | 2025
+
+- A scalable and responsive multi-provider e-commerce platform:
+- Developed with React and TypeScript for type safety and modern development
+- Implemented Redux for state management across products and providers
+- Styled with Tailwind CSS for clean, responsive, and consistent UI design
+- Applied clean code principles and best practices for maintainability
+- Structured with modular, reusable components to support scalability
+- Fully documented for easy understanding and future improvements
+
+  
+
 ### 🛒 [Puma E-Commerce Website](https://github.com/tahaebrahim0078/Puma)
 **Full Stack Developer** | Team Project | 2025
 

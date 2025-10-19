@@ -43,17 +43,6 @@ Full Stack Developer skilled in .NET and JavaScript technologies. I build robust
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrMagdy00&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-## 🏆 My Latest Projects
-<a href="https://github.com/tahaebrahim0078/Puma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tahaebrahim0078&repo=Puma&theme=tokyonight" />
-</a>
-<a href="https://github.com/AmrMagdy00/Fin-Shark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmrMagdy00&repo=Fin-Shark&theme=tokyonight" />
-</a>
-<a href="https://github.com/AmrMagdy00/Product-Control">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmrMagdy00&repo=Product-Control&theme=tokyonight" />
-</a>
-
 ## 📬 Let's Connect
 
 <p align="center">
